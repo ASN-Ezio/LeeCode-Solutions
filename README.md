@@ -1,2 +1,2 @@
 # LeeCode-Solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+这是我在力扣上的一些解题记录和心得。
